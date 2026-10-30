@@ -1,0 +1,5 @@
+"scenario (contributions only, no market returns assumed)",portfolio_rs,ppfas_share_pct,nifty_next_50_funds_share_pct,nifty_it_share_pct,Large Cap,Mid Cap,Small Cap,"Domestic equity, size not known",Overseas equity,REITs and InvITs,"Arbitrage positions (hedged, behave like cash)",Debt and cash,Fund portfolio not obtained (JioBlackRock Flexi Cap)
+today,67331,40.77,23.64,5.72,58.72,15.14,8.28,2.32,5.47,2.56,0.59,4.81,2.11
+"after Rs 10,000 lump sum",77331,38.08,20.59,4.98,54.6,15.38,9.78,5.72,5.07,2.39,0.55,4.67,1.84
+after lump sum + 12 SIP months,197331,27.09,8.07,1.95,37.73,16.36,15.93,19.63,3.43,1.7,0.39,4.1,0.72
+after lump sum + 36 SIP months,437331,23.2,3.64,0.88,31.76,16.71,18.1,24.55,2.86,1.45,0.34,3.9,0.32

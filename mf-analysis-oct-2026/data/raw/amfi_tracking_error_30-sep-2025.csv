@@ -1,0 +1,6 @@
+Scheme_Name,Benchmark,RegularPercent,DirectPercent,date,source_url
+ICICI Prudential Nifty IT Index Fund,Nifty IT TRI,0.14,0.14,30-sep-2025,https://www.amfiindia.com/api/tracking-error-data?MF_ID=20&strdt=30-sep-2025
+ICICI Prudential Nifty Next 50 Index Fund,Nifty Next 50 TRI,0.24,0.24,30-sep-2025,https://www.amfiindia.com/api/tracking-error-data?MF_ID=20&strdt=30-sep-2025
+Motilal Oswal Nifty 500 Index Fund,NIFTY 500 Total Return Index,0.05,0.05,30-sep-2025,https://www.amfiindia.com/api/tracking-error-data?MF_ID=55&strdt=30-sep-2025
+JioBlackRock Nifty Next 50 Index Fund,Nifty Next 50 Index TRI,,0.13,30-sep-2025,https://www.amfiindia.com/api/tracking-error-data?MF_ID=82&strdt=30-sep-2025
+JioBlackRock Nifty Smallcap 250 Index Fund,Nifty Smallcap 250 Index TRI,,0.21,30-sep-2025,https://www.amfiindia.com/api/tracking-error-data?MF_ID=82&strdt=30-sep-2025

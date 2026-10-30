@@ -1,0 +1,9 @@
+fund,benchmark,window_years,observations,fund_avg_pct,bench_avg_pct,fund_min_pct,bench_min_pct,fund_max_pct,share_of_windows_fund_beat_bench_pct,downside_capture_last_3y,upside_capture_last_3y,months_used_for_capture,downside_capture_last_5y,upside_capture_last_5y
+Parag Parikh Flexi Cap Fund,NIFTY 500 TRI,3,2545,19.09,14.87,0.74,-6.31,37.64,95.1,44.7,73.6,36,,
+Parag Parikh Flexi Cap Fund,NIFTY 500 TRI,5,2052,19.13,14.54,4.09,-1.06,33.95,100.0,,,60,57.3,79.6
+HDFC Mid Cap Fund,NIFTY Midcap 150 TRI,3,2645,21.15,20.09,-8.36,-8.3,43.37,56.1,80.0,92.2,36,,
+HDFC Mid Cap Fund,NIFTY Midcap 150 TRI,5,2152,19.56,19.01,0.79,0.35,37.6,64.4,,,60,77.2,95.3
+Axis Large & Mid Cap Fund,NIFTY LargeMidcap 250 TRI,3,1210,21.35,20.78,11.7,10.81,31.62,42.9,85.5,102.4,36,,
+Axis Large & Mid Cap Fund,NIFTY LargeMidcap 250 TRI,5,717,21.48,20.91,11.54,10.96,29.91,64.0,,,60,94.5,98.6
+JioBlackRock Flexi Cap Fund,"NIFTY 500 TRI (reference only, benchmark not verified)",3,0,,,,,,,,,11,,
+JioBlackRock Flexi Cap Fund,"NIFTY 500 TRI (reference only, benchmark not verified)",5,0,,,,,,,,,11,,

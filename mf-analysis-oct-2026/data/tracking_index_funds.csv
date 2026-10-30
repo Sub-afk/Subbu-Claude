@@ -1,0 +1,11 @@
+fund,index,period_years,tracking_difference_pct,tracking_error_pct,note
+ICICI Prudential Nifty Next 50 Index Fund,Nifty Next 50 TRI,1,-0.5,0.14,
+ICICI Prudential Nifty Next 50 Index Fund,Nifty Next 50 TRI,3,-0.62,0.17,
+ICICI Prudential Nifty IT Index Fund,Nifty IT TRI,1,-0.23,0.1,
+ICICI Prudential Nifty IT Index Fund,Nifty IT TRI,3,-0.38,0.11,
+JioBlackRock Nifty Smallcap 250 Index Fund,Nifty Smallcap 250 TRI,1,-0.43,0.13,
+JioBlackRock Nifty Smallcap 250 Index Fund,Nifty Smallcap 250 TRI,3,,,fund younger than period
+JioBlackRock Nifty Next 50 Index Fund,Nifty Next 50 TRI,1,-0.22,0.17,
+JioBlackRock Nifty Next 50 Index Fund,Nifty Next 50 TRI,3,,,fund younger than period
+Motilal Oswal Nifty 500 Index Fund,NIFTY 500 TRI,1,-0.09,0.04,
+Motilal Oswal Nifty 500 Index Fund,NIFTY 500 TRI,3,-0.27,0.09,
